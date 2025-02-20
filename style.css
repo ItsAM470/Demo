@@ -1,0 +1,93 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #bb0b0e;
+  height: 1024px;
+  position: relative;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 91px;
+  top: 51px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 622px;
+  top: 51px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1192px;
+  top: 51px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 915px;
+  top: 51px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  line-height: 140%;
+  font-weight: 700;
+  position: absolute;
+  left: 185px;
+  top: 384px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 285px;
+  top: 511px;
+  width: 871px;
+  height: 118px;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 630px;
+  top: 657px;
+  overflow: visible;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 140%;
+  font-weight: 700;
+  position: absolute;
+  left: 648px;
+  top: 668px;
+}
